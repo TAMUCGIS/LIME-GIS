@@ -12,7 +12,7 @@ LIME GIS is QGIS Plugin designed to run classification algorithms on spatial dat
 
 ## Installation
 
-Before installing the SpatialDM plugin ensure that you have QGIS, Python and Scikit-learn installed on your system (see the dependencies section).
+Before installing the LIME GIS plugin ensure that you have QGIS, Python and Scikit-learn installed on your system (see the dependencies section).
 
 To install the plugin just paste the SpatialDM directory in the following folders:
 
