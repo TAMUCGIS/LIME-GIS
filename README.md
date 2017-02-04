@@ -1,10 +1,10 @@
-# SpatialDM
+# LIME GIS
 
 QGIS Plugin to run data mining algorithms on spatial datasets.
 
 ## General Overview
 
-SpatialDM is QGIS Plugin designed to run classification algorithms on spatial data. It is compatible with both multi-band raster layers and comma separated values (CSV) files. Currently three classifiers have been implemented:
+LIME GIS is QGIS Plugin designed to run classification algorithms on spatial data. It is compatible with both multi-band raster layers and comma separated values (CSV) files. Currently three classifiers have been implemented:
 
 * Decision Tree Classifier
 * AdaBoost Classifier
