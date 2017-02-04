@@ -1,6 +1,7 @@
 # LIME GIS
 
 QGIS Plugin to run data mining algorithms on spatial datasets.
+LIME GIS is Licensed under the GPL version 3.
 
 ## General Overview
 
